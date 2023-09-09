@@ -1,6 +1,3 @@
-[![Passwordhub](https://github.com/Belichvladimir/passwordhub/actions/workflows/webpack.yml/badge.svg?branch=main)](https://github.com/Belichvladimir/passwordhub/actions/workflows/webpack.yml)
-[![Build status](https://ci.appveyor.com/api/projects/status/a7949jh497pj08hv/branch/main?svg=true)](https://ci.appveyor.com/project/Belichvladimir/passwordhub/branch/main)
-
 Описание проекта
 Парольница - это безопасное и удобное приложение для хранения и управления паролями. Основная цель проекта - обеспечить пользователей надежным хранилищем для их учетных записей, паролей и других конфиденциальных данных. Приложение обладает простым и интуитивно понятным интерфейсом, что делает его доступным для широкого круга пользователей.
 
@@ -12,13 +9,6 @@
 При создании новой записи, отображатся дата и время создания.
 
 Категории и теги: Пользователи могут организовывать свои учетные записи в различные категории и и сортировать их с помощью поиска.
-
-Установка и запуск
-Клонируйте репозиторий с GitHub:
-
-bash
-Copy code
-git clone https://github.com/Belichvladimir/passwordhub
 
 
 Требования к безопасности
